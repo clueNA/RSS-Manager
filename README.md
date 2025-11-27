@@ -1,3 +1,4 @@
+![RSS-Manager](https://socialify.git.ci/clueNA/RSS-Manager/image?font=Raleway&language=1&name=1&owner=1&pattern=Transparent&stargazers=1&theme=Dark)
 # 📡 RSS Feed to Discord Integration
 
 Automatically post RSS feed updates to Discord channels with a Streamlit feed management interface.
